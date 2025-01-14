@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lift Control System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Lift Control System</h1>
+        
+        <div class="lift-status">
+            <h2>Lift Status</h2>
+            <ul id="lift-status-list">
+                <li>Lift 1 - Floor: <span id="lift-1-floor">1</span> | People: <span id="lift-1-people">0</span></li>
+                <li>Lift 2 - Floor: <span id="lift-2-floor">1</span> | People: <span id="lift-2-people">0</span></li>
+                <li>Lift 3 - Floor: <span id="lift-3-floor">1</span> | People: <span id="lift-3-people">0</span></li>
+            </ul>
+        </div>
+        
+        <div class="call-lift">
+            <h2>Call Lift</h2>
+            <label for="requested-floor">Requested Floor: </label>
+            <input type="number" id="requested-floor" min="1" max="8" required>
+            
+            <label for="people-count">Number of People: </label>
+            <input type="number" id="people-count" min="1" max="7" required>
+            
+            <button id="call-lift-button">Call Lift</button>
+        </div>
+        
+        <div id="status-message"></div>
+    </div>
+
+    <!-- Modal for Floor Selection -->
+    <div id="floor-selection-modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2>Where would you like to go?</h2>
+            <label for="next-floor">Select Floor: </label>
+            <input type="number" id="next-floor" min="1" max="8" required>
+            <button onclick="selectNextFloor()">Go</button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
