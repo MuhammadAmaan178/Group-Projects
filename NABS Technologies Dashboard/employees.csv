@@ -1,0 +1,51 @@
+EmployeeID,Name,Role,Department,Email,Phone,Salary,Bonus,Project,TechStack,ShiftTime,JoinDate
+1001,Ahsan Khan,Tech Lead,CTO,ahsankhan@nabstechnologies.com,3011234567,85147,0,ProjectX,Java;Spring,9 AM - 5 PM,3/15/2021
+1002,Ahsan Raza,Tech Lead,CTO,ahsanraza@nabstechnologies.com,3011234568,85147,0,Alpha,Python;Django,9 AM - 5 PM,7/22/2020
+1003,Faisal Iqbal,Tech Lead,CTO,faisaliqbal@nabstechnologies.com,3011234569,85147,0,Beta,Node.js;React,9 AM - 5 PM,11/5/2021
+1004,Hina Siddiqui,Backend Developer,CTO,hinasiddiqui@nabstechnologies.com,3011234570,81183,0,ProjectX,Java;Spring,9 AM - 5 PM,1/18/2022
+1005,Osama Javed,Backend Developer,CTO,osamajaved@nabstechnologies.com,3011234571,81183,0,Alpha,Python;Django,9 AM - 5 PM,9/30/2021
+1006,Areeba Shah,Backend Developer,CTO,areebashah@nabstechnologies.com,3011234572,81183,0,Beta,Node.js;Express,9 AM - 5 PM,5/12/2022
+1007,Shahzaib Malik,Backend Developer,CTO,shahzaibmalik@nabstechnologies.com,3011234573,81183,0,ProjectX,Java;Spring,Night Shift,2/28/2023
+1008,Mehwish Raza,Backend Developer,CTO,mehwishraza@nabstechnologies.com,3011234574,81183,0,Alpha,Python;Flask,9 AM - 5 PM,12/10/2020
+1009,Taimoor Ahmed,Backend Developer,CTO,taimoorahmed@nabstechnologies.com,3011234575,81183,0,Beta,C++;Qt,Night Shift,8/15/2021
+1010,Sana Farooq,Frontend Developer,CTO,sanafarooq@nabstechnologies.com,3011234576,97648,0,ProjectX,JavaScript;React,9 AM - 5 PM,7/22/2022
+1011,Bilal Qureshi,Frontend Developer,CTO,bilalqureshi@nabstechnologies.com,3011234577,97648,0,Alpha,TypeScript;Angular,9 AM - 5 PM,4/5/2021
+1012,Mahnoor Aslam,Frontend Developer,CTO,mahnooraslam@nabstechnologies.com,3011234578,97648,0,Beta,JavaScript;Vue,Night Shift,1/15/2023
+1013,Hassan Nawaz,Frontend Developer,CTO,hassannawaz@nabstechnologies.com,3011234579,97648,0,ProjectX,JavaScript;React,9 AM - 5 PM,9/30/2020
+1014,Nimra Zubair,Frontend Developer,CTO,nimrazubair@nabstechnologies.com,3011234580,97648,0,Alpha,TypeScript;Angular,Night Shift,3/18/2022
+1015,Ali Raza,Full Stack Developer,CTO,aliraza@nabstechnologies.com,3011234581,123992,0,Beta,JavaScript;Node.js;React,9 AM - 5 PM,6/25/2021
+1016,Kiran Abbas,Full Stack Developer,CTO,kiranabbas@nabstechnologies.com,3011234582,123992,0,ProjectX,Python;Django;React,9 AM - 5 PM,11/12/2020
+1017,Zohaib Ali,Full Stack Developer,CTO,zohaibali@nabstechnologies.com,3011234583,123992,0,Alpha,Java;Spring;Angular,Night Shift,9/5/2022
+1018,Marium Shafi,Mobile App Developer,CTO,mariumshafi@nabstechnologies.com,3011234584,119066,0,Beta,Swift;iOS,9 AM - 5 PM,12/20/2021
+1019,Umer Farooq,Mobile App Developer,CTO,umerfarooq@nabstechnologies.com,3011234585,119066,0,ProjectX,Kotlin;Android,9 AM - 5 PM,4/10/2023
+1020,Hiba Kamal,QA / Tester,CTO,hibakamal@nabstechnologies.com,3011234586,124853,0,Alpha,Selenium;Java,Night Shift,8/15/2020
+1021,Imran Khalid,QA / Tester,CTO,imrankhalid@nabstechnologies.com,3011234587,124853,0,Beta,Cypress;JavaScript,9 AM - 5 PM,2/28/2022
+1022,Ayesha Bukhari,QA / Tester,CTO,ayeshabukhari@nabstechnologies.com,3011234588,124853,0,ProjectX,Selenium;Python,9 AM - 5 PM,5/12/2021
+1023,Junaid Rehman,QA / Tester,CTO,junaidrehman@nabstechnologies.com,3011234589,124853,0,Alpha,Playwright;TypeScript,Night Shift,3/22/2023
+1024,Iqra Saeed,UI/UX Designer,CTO,iqrasaeed@nabstechnologies.com,3011234590,126611,0,Beta,Figma;Adobe XD,9 AM - 5 PM,10/5/2020
+1025,Saad Anwar,UI/UX Designer,CTO,saadanwar@nabstechnologies.com,3011234591,126611,0,ProjectX,Sketch;Illustrator,9 AM - 5 PM,6/18/2022
+1026,Fatima Irfan,UI/UX Designer,CTO,fatimairfan@nabstechnologies.com,3011234592,126611,0,Alpha,Figma;Photoshop,Night Shift,1/30/2021
+1027,Noman Siddiq,DevOps Engineer,CTO,nomansiddiq@nabstechnologies.com,3011234593,110876,0,Beta,AWS;Docker;Kubernetes,9 AM - 5 PM,12/15/2020
+1028,Mishal Hanif,DevOps Engineer,CTO,mishalhanif@nabstechnologies.com,3011234594,110876,0,ProjectX,Azure;Terraform,9 AM - 5 PM,8/25/2022
+1029,Hamza Saleem,Junior Developer,CTO,hamzasaleem@nabstechnologies.com,3011234595,90536,0,Alpha,JavaScript;HTML;CSS,Night Shift,5/10/2023
+1030,Komal Khan,Junior Developer,CTO,komalkhan@nabstechnologies.com,3011234596,90536,0,Beta,Python;Django,9 AM - 5 PM,7/22/2021
+1031,Rehan Mirza,HR Manager,COO,rehanmirza@nabstechnologies.com,3011234597,122548,0,NA,NA,9 AM - 5 PM,6/15/2020
+1032,Aqsa Nadeem,HR Assistant,COO,aqsanadeem@nabstechnologies.com,3011234598,127950,0,NA,NA,9 AM - 5 PM,4/5/2022
+1033,Adeel Hassan,HR Assistant,COO,adeelhassan@nabstechnologies.com,3011234599,127950,0,NA,NA,Night Shift,10/18/2021
+1034,Sadia Shahid,Office Admin,COO,sadiashahid@nabstechnologies.com,3011234600,95219,0,NA,NA,9 AM - 5 PM,1/30/2023
+1035,Usman Bashir,Receptionist,COO,usmanbashir@nabstechnologies.com,3011234601,81320,0,NA,NA,9 AM - 5 PM,9/12/2020
+1036,Lubna Qamar,Operations Coordinator,COO,lubnaqamar@nabstechnologies.com,3011234602,99308,0,NA,NA,Night Shift,7/5/2022
+1037,Kashif Mehmood,Operations Coordinator,COO,kashifmehmood@nabstechnologies.com,3011234603,99308,0,NA,NA,9 AM - 5 PM,2/20/2021
+1038,Ayla Rashid,Legal / Compliance,COO,aylarashid@nabstechnologies.com,3011234604,124619,0,NA,NA,9 AM - 5 PM,11/25/2020
+1039,Shayan Shah,Training Staff,COO,shayanshah@nabstechnologies.com,3011234605,110912,0,NA,NA,Night Shift,2/15/2023
+1040,Rabia Nisar,Training Staff,COO,rabianisar@nabstechnologies.com,3011234606,110912,0,NA,NA,9 AM - 5 PM,12/5/2021
+1041,Salman Abbasi,Senior Accountant,CFO,salmanabbasi@nabstechnologies.com,3011234607,91209,9120,NA,NA,9 AM - 5 PM,5/20/2020
+1042,Zoya Imran,Junior Accountant,CFO,zoyaimran@nabstechnologies.com,3011234608,89099,8909,NA,NA,Night Shift,10/12/2022
+1043,Danish Rauf,Junior Accountant,CFO,danishrauf@nabstechnologies.com,3011234609,89099,8909,NA,NA,9 AM - 5 PM,9/15/2021
+1044,Sahar Jamil,Payroll Officer,CFO,saharjamil@nabstechnologies.com,3011234610,82433,8243,NA,NA,9 AM - 5 PM,3/28/2023
+1045,Talha Yousaf,Financial Analyst,CFO,talhayousaf@nabstechnologies.com,3011234611,125631,12563,NA,NA,Night Shift,8/10/2020
+1046,Neha Umar,Billing Staff,CFO,nehaumar@nabstechnologies.com,3011234612,102265,10226,NA,NA,9 AM - 5 PM,1/22/2022
+1047,Adnan Zahir,Billing Staff,CFO,adnanzahir@nabstechnologies.com,3011234613,102265,10226,NA,NA,9 AM - 5 PM,4/15/2021
+1048,Rimsha Nabeel,Executive Assistant,CEO,rimshanabeel@nabstechnologies.com,3011234614,94987,0,NA,NA,9 AM - 5 PM,7/30/2020
+1049,Moiz Hashmi,Strategy Advisor,CEO,moizhashmi@nabstechnologies.com,3011234615,96503,0,NA,NA,Night Shift,11/18/2022
+1050,Anam Hammad,Legal Advisor,CEO,anamhammad@nabstechnologies.com,3011234616,103188,0,NA,NA,9 AM - 5 PM,6/10/2021

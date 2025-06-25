@@ -1,0 +1,101 @@
+TransactionID,Date,Description,Amount,Type
+TXN001,06/28/2025,Client Payment,3667,Income
+TXN002,06/20/2025,Marketing Expense,700,Expense
+TXN003,06/25/2025,Maintenance,406,Expense
+TXN004,06/29/2025,Internet Bill,2363,Expense
+TXN005,06/22/2025,Consulting Fee,2846,Income
+TXN006,06/29/2025,Internet Bill,1652,Expense
+TXN007,06/13/2025,Hardware Purchase,1477,Expense
+TXN008,06/13/2025,Consulting Fee,872,Income
+TXN009,06/24/2025,Hardware Purchase,3797,Expense
+TXN010,06/02/2025,Marketing Expense,3912,Expense
+TXN011,06/28/2025,Marketing Expense,4918,Expense
+TXN012,06/01/2025,Subscription,3293,Expense
+TXN013,06/22/2025,Project Advance,3012,Income
+TXN014,06/01/2025,Consulting Fee,3193,Income
+TXN015,06/09/2025,Client Payment,3763,Income
+TXN016,06/05/2025,Travel Expense,4596,Expense
+TXN017,06/01/2025,Travel Expense,1241,Expense
+TXN018,06/10/2025,Consulting Fee,3356,Income
+TXN019,06/27/2025,Product Sale,1700,Income
+TXN020,06/25/2025,Project Advance,2678,Income
+TXN021,06/05/2025,Training Expense,1143,Expense
+TXN022,06/28/2025,Training Expense,4887,Expense
+TXN023,06/25/2025,Travel Expense,4358,Expense
+TXN024,06/06/2025,Bonus Payout,3489,Expense
+TXN025,06/29/2025,Utility Bill,1644,Expense
+TXN026,06/06/2025,Project Advance,2734,Income
+TXN027,06/09/2025,Consulting Fee,1917,Income
+TXN028,06/11/2025,Utility Bill,3329,Expense
+TXN029,06/30/2025,Client Payment,304,Income
+TXN030,06/21/2025,Marketing Expense,986,Expense
+TXN031,06/08/2025,Internet Bill,4641,Expense
+TXN032,06/23/2025,Client Payment,611,Income
+TXN033,06/20/2025,Travel Expense,3682,Expense
+TXN034,06/22/2025,Travel Expense,4394,Expense
+TXN035,06/08/2025,Marketing Expense,2869,Expense
+TXN036,06/22/2025,Subscription,4973,Expense
+TXN037,06/10/2025,Marketing Expense,526,Expense
+TXN038,06/29/2025,Maintenance,4773,Expense
+TXN039,06/04/2025,Software License,1103,Expense
+TXN040,06/05/2025,Software License,1555,Expense
+TXN041,06/10/2025,Product Sale,2886,Income
+TXN042,06/15/2025,Utility Bill,2802,Expense
+TXN043,06/19/2025,Software License,3589,Expense
+TXN044,06/15/2025,Internet Bill,3834,Expense
+TXN045,06/01/2025,Consulting Fee,3474,Income
+TXN046,06/07/2025,Internet Bill,2250,Expense
+TXN047,06/13/2025,Utility Bill,3871,Expense
+TXN048,06/03/2025,Utility Bill,4225,Expense
+TXN049,06/26/2025,Subscription,3356,Expense
+TXN050,06/06/2025,Internet Bill,4562,Expense
+TXN051,06/21/2025,Travel Expense,2164,Expense
+TXN052,06/23/2025,Bonus Payout,3265,Expense
+TXN053,06/24/2025,Internet Bill,4204,Expense
+TXN054,06/13/2025,Hardware Purchase,2511,Expense
+TXN055,06/06/2025,Software License,3276,Expense
+TXN056,06/16/2025,Internet Bill,516,Expense
+TXN057,06/22/2025,Hardware Purchase,3103,Expense
+TXN058,06/06/2025,Maintenance,755,Expense
+TXN059,06/21/2025,Product Sale,4279,Income
+TXN060,06/19/2025,Subscription,4224,Expense
+TXN061,06/23/2025,Subscription,4040,Expense
+TXN062,06/19/2025,Maintenance,2857,Expense
+TXN063,06/27/2025,Utility Bill,676,Expense
+TXN064,06/30/2025,Project Advance,917,Income
+TXN065,06/23/2025,Client Payment,4105,Income
+TXN066,06/28/2025,Consulting Fee,4105,Income
+TXN067,06/25/2025,Client Refund,2858,Expense
+TXN068,06/10/2025,Travel Expense,3489,Expense
+TXN069,06/18/2025,Product Sale,1155,Income
+TXN070,06/13/2025,Maintenance,477,Expense
+TXN071,06/04/2025,Product Sale,4526,Income
+TXN072,06/08/2025,Hardware Purchase,4984,Expense
+TXN073,06/06/2025,Client Payment,4803,Income
+TXN074,06/24/2025,Client Refund,2162,Expense
+TXN075,06/18/2025,Client Refund,4150,Expense
+TXN076,06/23/2025,Office Supplies,2624,Expense
+TXN077,06/19/2025,Internet Bill,1226,Expense
+TXN078,06/14/2025,Consulting Fee,584,Income
+TXN079,06/29/2025,Training Expense,4862,Expense
+TXN080,06/03/2025,Client Payment,2452,Income
+TXN081,06/13/2025,Hardware Purchase,3087,Expense
+TXN082,06/19/2025,Internet Bill,4869,Expense
+TXN083,06/24/2025,Client Payment,3309,Income
+TXN084,06/18/2025,Marketing Expense,1862,Expense
+TXN085,06/19/2025,Bonus Payout,2918,Expense
+TXN086,06/20/2025,Internet Bill,2385,Expense
+TXN087,06/06/2025,Subscription,2490,Expense
+TXN088,06/03/2025,Software License,1141,Expense
+TXN089,06/03/2025,Marketing Expense,2738,Expense
+TXN090,06/14/2025,Consulting Fee,2060,Income
+TXN091,06/12/2025,Bonus Payout,3886,Expense
+TXN092,06/10/2025,Marketing Expense,107,Expense
+TXN093,06/02/2025,Software License,3372,Expense
+TXN094,06/27/2025,Hardware Purchase,2755,Expense
+TXN095,06/17/2025,Training Expense,4751,Expense
+TXN096,06/23/2025,Internet Bill,2446,Expense
+TXN097,06/20/2025,Subscription,4104,Expense
+TXN098,06/03/2025,Bonus Payout,3053,Expense
+TXN099,06/25/2025,Marketing Expense,1338,Expense
+TXN100,06/23/2025,Bonus Payout,4952,Expense
